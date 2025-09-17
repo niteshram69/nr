@@ -13,7 +13,7 @@ except Exception:
     pass
 try:
     from openai import OpenAI
-except Exception:  # pragma: no cover
+except Exception:  # pragma: no covers
     OpenAI = None  # type: ignore
 
 
