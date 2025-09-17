@@ -1,0 +1,10 @@
+# Node
+node_modules
+# Next.js build
+.next
+# Mac
+.DS_Store
+# Local env
+.env.local
+.env
+node_modules

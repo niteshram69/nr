@@ -1,0 +1,22 @@
+{
+  "name": "ai-chat-agent-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "livekit-client": "^1.15.0",
+    "livekit-server-sdk": "^2.13.3",
+    "next": "^15.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4"
+  }
+}
