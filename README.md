@@ -16,7 +16,7 @@ This project implements a real-time AI chat agent using the LiveKit API that can
 - Python with LiveKit Agents SDK
 - mem0 for memory/RAG integration
 - OpenAI/OpenRouter/Groq for LLM services
-
+ 
 ### Frontend
 - Next.js for the web interface
 - LiveKit Client SDK for real-time communication
