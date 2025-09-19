@@ -5,4 +5,4 @@ const nextConfig = {
   outputFileTracingRoot: "/Users/niteshram/Downloads/Livekit/frontend",
 };
 
-module.exports = nextConfig;
+module.exports = nextConfig; 
